@@ -2,3 +2,8 @@
 	path = magneticlab-ch/l10n-switzerland
 	url = git@github.com:magneticlab-ch/l10n-switzerland.git
 	branch = 11.0
+
+[submodule "magneticlab-ch/base_location"]
+	path = magneticlab-ch/base_location
+	url = git@github.com:magneticlab-ch/base_location.git
+	branch = master
